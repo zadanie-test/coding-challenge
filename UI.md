@@ -7,9 +7,3 @@ Please automate 3 test cases. You need to decide which TC will be most valuable 
 ## Submitting
 
 Place your code on https://github.com in your repository and send us link to it.
-
-## Tips
-
-We appreciate people have day jobs and other commitments, so please let us know if you need more time!
-
-Please do not publish your solution, for example on your blog.

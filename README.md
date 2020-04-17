@@ -1,7 +1,7 @@
 # Code Challenge
 
 You have received this challenge as part of the recruitment process. You have 7 days to complete this challenge but it shouldn't take longer than a few hours.
-Please upload solution to your GitHub or any other repository hosting service you use and send as the link.
+Please upload solution to your GitHub or any other repository hosting service you use and send us the link.
 Send it back as soon as you're done.
 We appreciate people have day jobs and other commitments, so please let us know if you need more time!
 Please do not publish your solution, for example on your blog.

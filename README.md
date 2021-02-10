@@ -7,10 +7,5 @@ Please upload solution to your GitHub repository and send us the link. Send it b
 We appreciate people have day jobs and other commitments, so please let us know if you need more time!
 Please do not publish your solution, for example on your blog.
 
-Based on your experience you can choose which exercise you want to do
-
-API tests exercises
-https://github.com/zadanie-test/coding-challenge/blob/master/API.md
-
 UI tests exercises
 https://github.com/zadanie-test/coding-challenge/blob/master/UI.md
